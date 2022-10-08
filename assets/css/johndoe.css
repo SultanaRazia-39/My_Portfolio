@@ -5043,6 +5043,15 @@ input[type="button"].btn-block {
   color: #fff;
 }
 
+/* .height-sec{
+  height: 270px;
+}
+.less-height{
+  margin-top: -50px;
+} */
+ul.navbar-nav.ml-auto {
+  margin-right: -90px;
+}
 .card {
   position: relative;
   display: -webkit-box;
@@ -5060,6 +5069,7 @@ input[type="button"].btn-block {
   background-clip: border-box;
   border: 1px solid rgba(0, 0, 0, 0.125);
   border-radius: 0;
+  height: 570px;
 }
 
 .card > hr {
